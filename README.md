@@ -12,9 +12,10 @@ Translation copy is complete for all nine languages, but has not been reviewed b
 
 Support URL: https://miniversegames1-hue.github.io/apex-privacy/support/
 
-`support/?lang=tr` selects the complete localized help/contact article. All nine support pages explain the free campaign/cosmetic scope, Apple restoration versus local progress, and how to report a reproducible issue. Contact: miniverse.games1@gmail.com. Both pages remain readable without JavaScript.
+`support/?lang=tr` selects the complete localized help/contact article. All nine support pages explain the free campaign/ad-free pack scope, Apple restoration versus local progress, and how to report a reproducible issue. Contact: miniverse.games1@gmail.com. Both pages remain readable without JavaScript.
 
-Current source reflects Release ads disabled, no app ad requests,
+Current source includes the one-time Ad-free Pack plus three permanent looks,
+verified purchase/restore rights, Release ads disabled, no app ad requests,
 and optional local-only playtest recording/export. Publication is separate from source
 preparation; verify the deployed date/model before submitting its URL. Future activated
 ad clauses live in `../monetization/ad-activation.md`, outside this public payload.
